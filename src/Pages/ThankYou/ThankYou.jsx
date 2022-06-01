@@ -5,7 +5,7 @@ import './thankYou.css';
 const ThankYou = ({ stateCurrentSelecction }) => {
   return (
     <Container classNameCustom="custom-width-container custom-padding-container">
-        <img className="thank-you-img" src={thankYouImg} alt="thank you illustration"/>
+        <img className="thank-you-img mt-4" src={thankYouImg} alt="thank you illustration"/>
         <div className="flex aling-items-center flex-column mt-4">
             <span className="informative-span-selected-calification">
 			{

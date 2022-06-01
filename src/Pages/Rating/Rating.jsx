@@ -13,7 +13,7 @@ const Rating = ({ currentStateSubmit, setterStateSubmit, setterCurrentSelectionR
 	return (
 		<Container>
 			<StartBadge />
-			<div className='mt-4'>
+			<div className='mt-3'>
 				<h1>How did we do?</h1>
 				<p className='mt-2'>
 					Please let us know how we did with your support request. All feedback is appreciated

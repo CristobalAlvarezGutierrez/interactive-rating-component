@@ -11,3 +11,9 @@ h1{
     font-size: 1.7rem;
     font-weight: 100;
 }
+
+@media only screen and (max-width: 600px) {
+    .raiting-qualifications{
+        --gap : 0.7rem
+    }
+}
