@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CristobalAlvarezGutierrez/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-lemon.vercel.app/)
+- Solution URL: [https://github.com/CristobalAlvarezGutierrez/interactive-rating-component](https://github.com/CristobalAlvarezGutierrez/interactive-rating-component)
+- Live Site URL: [https://interactive-rating-component-lemon.vercel.app/](https://interactive-rating-component-lemon.vercel.app/)
 
 ## My process
 
@@ -49,8 +49,8 @@ In this challenge I had the oportunity to put in practice what I've learned from
 
 ### Useful resources
 
-- [Example resource 1](https://scrimba.com/learn/spacetravel/using-our-general-utility-classes-co0ab4674a5afa4bea6e830cc) - Course of Kevin Poweel "Build a space travel website"
-- [Example resource 1](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233004-day-1-using-percentages-avoiding-heights/678543-percentages-vs-fixed-widths) - Course of Kevin Poweel "Conquering Responsive Layouts"
+- [Course 1](https://scrimba.com/learn/spacetravel/using-our-general-utility-classes-co0ab4674a5afa4bea6e830cc) - Course of Kevin Poweel "Build a space travel website"
+- [Coruse 2](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233004-day-1-using-percentages-avoiding-heights/678543-percentages-vs-fixed-widths) - Course of Kevin Poweel "Conquering Responsive Layouts"
 
 ## Author
 
