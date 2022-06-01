@@ -1,0 +1,9 @@
+.wrapper-container-rating{
+    /* background-color: hsla(var(--clr-dark-blue)); */
+    background: rgb(39,47,56);
+    background: radial-gradient(at top, rgba(39,47,56,1) 0%, rgba(20,28,38,1) 90%);
+    border-radius: 15px;
+    padding: var(--paddingContainer, 2rem);
+    max-width: var(--widthContainer, 410px);
+    margin-inline: 2rem;
+}

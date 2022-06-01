@@ -1,0 +1,27 @@
+.wrapper-number-rating{
+    display: flex;
+    cursor: pointer;
+}
+
+.number-rating-component{
+    background-color: hsla(var(--clr-medium-grey), 0.1);
+    color: hsla(var(--clr-medium-grey));
+    border-radius: 50%;
+    min-width: 50px;
+    padding: 0.8em;
+    text-align: center;
+    transition: all .3s;
+    border: none;
+    cursor: pointer;
+}
+
+.number-rating-component:hover{
+    background-color: hsl(var(--clr-orange));
+    color: hsl(var(--clr-white));
+}
+
+.rating-button-active{
+    background-color: hsla(var(--clr-light-grey), 0.6);
+    /* box-shadow: hsl(25, 94%, 75%) 0px 0px 2px, hsl(25, 97%, 53%) 0px 0px 8px; */
+    color: hsl(var(--clr-white));
+}

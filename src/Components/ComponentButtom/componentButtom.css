@@ -1,0 +1,15 @@
+.butttom{
+    background-color: hsla(var(--clr-orange));
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 0.8em 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.butttom:hover{
+    background-color: hsl(var(--clr-white));
+    color: hsla(var(--clr-orange));
+}

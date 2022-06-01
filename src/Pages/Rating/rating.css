@@ -1,0 +1,13 @@
+.raiting-qualifications{
+    --gap : 1.5rem
+}
+
+p{
+    color: hsla(var(--clr-medium-grey));
+    font-size: 0.9rem;
+}
+
+h1{
+    font-size: 1.7rem;
+    font-weight: 100;
+}

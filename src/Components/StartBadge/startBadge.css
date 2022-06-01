@@ -1,0 +1,13 @@
+.wrapper-start-badge{
+    display: flex;
+}
+
+.start-badge{
+    background-color:  hsla(var(--clr-medium-grey), 0.1);
+    padding: 1em;
+    border-radius: 50%;
+}
+
+img{
+    width: 15px;
+}

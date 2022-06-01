@@ -1,0 +1,32 @@
+.thank-you-img{
+    width: 52%;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+p{
+    color: hsla(var(--clr-medium-grey));
+    font-size: 0.9rem;
+}
+
+.custom-width-container{
+    --widthContainer : 335px
+}
+
+.custom-padding-container{
+    --paddingContainer : 2.5rem 1.5rem;
+}
+
+.informative-span-selected-calification{
+    border-radius: 30px;
+    padding: 0.3rem 1rem;
+    color: hsl(var(--clr-orange));
+    background-color: hsla(var(--clr-medium-grey), 0.1);
+    font-size: 0.9rem;
+    font-weight: 100;
+    max-width: max-content;
+}
